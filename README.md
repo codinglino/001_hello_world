@@ -5,7 +5,10 @@ This is the first of several projects I plan to deliver in learning how to work 
 **I know I'm done with this project when:**
 * I've completed all the steps of the [github tutorial][1] for hello-world.
 
-Wish me luck!
+~~Wish me luck!~~ 
 *codinglino*
 
+*If the wind does not serve, take to the oars.*
+ \- Latin proverb.
+ 
 [1]:https://guides.github.com/activities/hello-world/
